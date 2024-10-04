@@ -55,8 +55,20 @@ public class PlayerController : MonoBehaviour
         {
             other.gameObject.SetActive(false);
             count++;
-
             SetCountText();
         }
+        else if (other.gameObject.CompareTag("Respawn"))
+        {
+            rb.position = Vector3.zero;
+            rb.velocity = Vector3.zero;
+            count--;
+            if (count < 0)
+            {
+                count = 0;
+            }
+            SetCountText();
+        }
+
+
     }
 }
