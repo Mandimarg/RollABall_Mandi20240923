@@ -51,9 +51,19 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("PickUp"))
+        if (other.gameObject.CompareTag("Pickup_1"))
         {
             count++;
+            SetCountText();
+        }
+        else if (other.gameObject.CompareTag("Pickup_5"))
+        {
+            count += 5;
+            SetCountText();
+        }
+        else if (other.gameObject.CompareTag("Pickup_15"))
+        {
+            count += 15;
             SetCountText();
         }
         else if (other.gameObject.CompareTag("Respawn"))

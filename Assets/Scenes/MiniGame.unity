@@ -135,6 +135,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -400,6 +405,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pickup (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
       objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
@@ -1888,6 +1898,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2171,6 +2186,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_5
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2244,6 +2264,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pickup (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_15
       objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
@@ -2467,6 +2492,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2605,6 +2635,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_15
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2678,6 +2713,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pickup (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_5
       objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
@@ -2854,6 +2894,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pickup (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
       objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
@@ -3420,7 +3465,7 @@ GameObject:
   - component: {fileID: 934705383}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4141,6 +4186,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_15
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4454,6 +4504,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4528,6 +4583,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pickup (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
+      objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4601,6 +4661,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pickup (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
       objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
@@ -4801,6 +4866,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pickup (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_5
       objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
@@ -5051,6 +5121,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pickup
+      objectReference: {fileID: 0}
+    - target: {fileID: 1741983175486578890, guid: b7c780b8ef8128246b978063b7f4a8e5,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup_1
       objectReference: {fileID: 0}
     - target: {fileID: 8992345535174468258, guid: b7c780b8ef8128246b978063b7f4a8e5,
         type: 3}
