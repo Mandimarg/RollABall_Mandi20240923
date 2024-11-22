@@ -23,10 +23,11 @@ Material:
   m_Name: Player
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 2100000, guid: 2de84d663bfde284d8d0dce1a1a30ea7, type: 2}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords:
+  - _EMISSION
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -41,6 +42,7 @@ Material:
     m_Floats:
     - _Smoothness: 0.75
     m_Colors:
-    - _BaseColor: {r: 0, g: 0.8627451, b: 1, a: 1}
-    - _Color: {r: 0, g: 0.8627451, b: 1, a: 1}
+    - _BaseColor: {r: 0.4113207, g: 0.3779494, b: 0.3779494, a: 1}
+    - _Color: {r: 0.41132066, g: 0.37794936, b: 0.37794936, a: 1}
+    - _EmissionColor: {r: 0.40138975, g: 0.102240734, b: 0.26800463, a: 1}
   m_BuildTextureStacks: []
